@@ -1,0 +1,7 @@
+<resources>
+
+    <integer name="grid_number_of_items_per_line">3</integer>
+
+
+
+</resources>

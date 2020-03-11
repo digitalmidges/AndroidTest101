@@ -1,0 +1,7 @@
+<resources>
+
+    <dimen name="grid_margin">0dp</dimen>
+    <dimen name="row_grid_height">250dp</dimen>
+
+
+</resources>
